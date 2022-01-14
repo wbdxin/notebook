@@ -52,6 +52,6 @@ Python程序比较紧凑，易读
 
 Python是易于扩展的，支持源码，二级制格式的扩展  
 
-学习语言的好方法是：使用它  
+学习语言的好方法是：使用它 
 
 ## 02 Using the Python Interpreter  
