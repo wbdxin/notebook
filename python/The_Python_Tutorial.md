@@ -107,4 +107,21 @@
     -c或-m后的参数放在sys.argv,交给命令或模块去处理  
 
 ### 交互模式  
+    执行命令后解释器进入交互模式  
+    prompts为>>>
+    在继续行的prompts为...  
+    第一个提示符会伴随欢迎信息，版本信息，版权  
     
+    Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>>
+
+    需要输入多行的情形如下：  
+    >>> the_world_is_flat = True
+    >>> if the_world_is_flat:
+    ...     print("Be careful not to fall off!")
+    ... 
+    Be careful not to fall off!
+    >>>
+    
+         
