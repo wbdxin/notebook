@@ -8,3 +8,5 @@
     interpreted nature
 
 language for RAD，scripting
+
+www.python.org, pyton interpreter,extensive standard lib share as binary or source code
