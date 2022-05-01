@@ -1,4 +1,4 @@
-## 编列列表
+## 编历列表
     for item_var in list_name:
         code block
     
